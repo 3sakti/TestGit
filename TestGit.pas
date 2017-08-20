@@ -12,6 +12,7 @@ type
     Button1: TButton;
     CheckBox1: TCheckBox;
     Panel1: TPanel;
+    ScrollBar1: TScrollBar;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
