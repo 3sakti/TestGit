@@ -7,9 +7,11 @@
     <Transaction>2017/01/26 00:45:36.000.502,=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017/04/27 11:06:21.000.749,=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2017/08/21 00:34:02.000.822,=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2017/08/21 00:34:34.000.490,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\TestGit.pas</Transaction>
-    <Transaction>2017/08/21 00:34:34.000.490,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\TestGit.fmx</Transaction>
-    <Transaction>2017/08/21 00:35:03.000.481,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\GitTest.dproj</Transaction>
+    <Transaction>2017/08/21 00:34:34.000.490,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\TestGit.fmx=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/08/21 00:34:34.000.490,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\TestGit.pas=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/08/21 00:35:03.000.481,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit\GitTest.dproj=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/08/21 00:59:34.264,=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit1\Unit1.pas</Transaction>
+    <Transaction>2017/08/21 01:00:05.384,C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit1\Test1.pas=C:\Users\GSky Mobile\Documents\Embarcadero\Studio\Projects\TestGit1\Unit1.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>

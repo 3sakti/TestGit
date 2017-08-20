@@ -3,7 +3,8 @@ program GitTest;
 uses
   System.StartUpCopy,
   FMX.Forms,
-  TestGit in 'TestGit.pas' {Form1};
+  TestGit in 'TestGit.pas' {Form1},
+  Test1 in 'Test1.pas';
 
 {$R *.res}
 
